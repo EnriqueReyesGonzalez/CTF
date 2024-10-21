@@ -44,6 +44,6 @@ def find_word_in_site(base_url, search_word):
 if __name__ == "__main__":
     
     base_url = 'https://esi.uclm.es/' 
-    search_word = 'palabra_a_buscar'  
+    search_word = 'distribución'  
 
     find_word_in_site(base_url, search_word)
